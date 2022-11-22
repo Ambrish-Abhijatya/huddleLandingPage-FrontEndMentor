@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo Link](https://github.com/Ambrish-Abhijatya/huddleLandingPage-FrontEndMentor)
-- Live Site URL: [Netlify Site Link](https://your-live-site-url.com)
+- Live Site URL: [Netlify Site Link](https://shimmering-rugelach-3d5c7b.netlify.app)
 
 ## My process
 
