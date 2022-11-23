@@ -45,7 +45,8 @@ Users should be able to:
 
 ### What I learned
 
-Negative margins inside a flex container combined with a z-index are an easy hack to overlap elements.
+Negative margins inside a flex container combined with a z-index are an easy hack to overlap elements BUT it is best practice to use relative positioning
+and set accordingly the top/bottom/left/right properties.
 
 ```html
   <div class="flex-container">
